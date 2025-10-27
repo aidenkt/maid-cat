@@ -1,4 +1,11 @@
 constants.py
 .venv
 .vscode
-__pycache__
+__pycache__.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
